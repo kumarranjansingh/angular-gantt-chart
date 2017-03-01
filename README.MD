@@ -2,8 +2,15 @@
 This library can be used in Angular 2 application for creating responsive gantt chart.
 The chart component consists of inline SVG.
 The component accepts input data from child component using input decorator of Angular 2.
-## Installation
 
+Angular2
+=========
+The sources for this package are in (https://github.com/kumarranjansingh/angular-gantt-chart) repo. Please file issues and pull requests against this repo.
+## Demo Output
+  ![angular2-gantt-chart-dekstop](https://github.com/kumarranjansingh/angular-gantt-chart/blob/master/assets/chartdekstop.PNG)
+![angular2-gantt-chart-mobile](https://github.com/kumarranjansingh/angular-gantt-chart/blob/master/assets/chartmobile.PNG)
+![angular2-gantt-chart-mobile1](https://github.com/kumarranjansingh/angular-gantt-chart/blob/master/assets/chartmobile1.PNG)
+## Installation
 To install this library, run:
 ```bash
 $ npm install angular-gantt-chart --save
